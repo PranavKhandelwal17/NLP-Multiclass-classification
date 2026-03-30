@@ -1,6 +1,11 @@
 📰 Multiclass News Classification using Machine Learning
 📌 Project Overview
 
+##  Dataset
+This project uses the **AG News Classification Dataset**, a popular benchmark dataset for text classification tasks.
+- **Source:** Kaggle  
+- **Link:** [AG News Classification Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
+
 This project focuses on building a Multiclass News Classifier using Machine Learning and Natural Language Processing (NLP) techniques. The system automatically categorizes news articles into four categories:
 
 🌍 World
