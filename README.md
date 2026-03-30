@@ -47,7 +47,7 @@ Accuracy Score
 Classification Report (Precision, Recall, F1-score)
 Confusion Matrix
 
-📊 As shown in the confusion matrix (page 9 of report), the model performs well across all categories with minimal misclassification.
+📊 As shown in the confusion matrix, the model performs well across all categories with minimal misclassification.
 
 📈 Results
 Naive Bayes Accuracy: ~89%
